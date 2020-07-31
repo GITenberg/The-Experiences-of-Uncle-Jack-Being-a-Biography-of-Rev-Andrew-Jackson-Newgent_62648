@@ -1,11 +1,16 @@
 _repo: The-Experiences-of-Uncle-Jack-Being-a-Biography-of-Rev-Andrew-Jackson-Newgent_62648
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 62648-h/images/cover.jpg
 creator:
   author:
     agent_name: Snyder, W. Ed.
     gutenberg_agent_id: '52055'
     url: http://www.gutenberg.org/2009/agents/52055
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62648#The-Experiences-of-Uncle-Jack-Being-a-Biography-of-Rev-Andrew-Jackson-Newgent
 gutenberg_issued: '2020-07-14'
 gutenberg_type: Text
 identifiers:
